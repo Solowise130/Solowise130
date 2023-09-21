@@ -10,11 +10,11 @@ I am Solomon Iniodu, A Front-end Developer | WordPress Developer, and Administra
   
 - 👯 I’m looking to collaborate on WordPress Projects, Landing Pages, Website Optimization Front-end Web development, and any other Technical, Customer service, and Administrative-centric projects.
   
-- 🤔 I’m looking for help with A full-time remote opportunity that offers career growth.
+- 🤔 I’m currently looking for a full-time remote opportunity that offers career growth.
   
-- 💬 Ask me about anything creative, legitimate, and research-worthy.
+- 💬 Ask me anything creative, legitimate, and research-worthy.
   
-- 📫 How to reach me:iniodusolomon@gmail.com
+- 📫 How to reach me:iniodusolomon@gmail.com or via https://join.skype.com/invite/Hvaw427tmytb
   
 - 😄 Pronouns: ...Solomon Iniodu
   
