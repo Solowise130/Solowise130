@@ -1,23 +1,20 @@
-### Hi there 👋
+Hi there 👋
+I am Solomon Iniodu, a Tech Specialist | Front-end Developer | Telesales Team Lead with over a decade of experience in customer service, remote team management, and technical leadership. My expertise spans Front-end Web Development, Shell Scripting, and Cloud Computing, and I am currently deepening my knowledge of AWS Cloud Solutions.
 
+🔭 I’m currently building a Local Service Finder App, a dynamic web application designed to connect service providers and service seekers within local communities.
 
-I am Solomon Iniodu, A Front-end Developer | WordPress Developer, and Administrator with a decade of Customer-facing and relationship-building experience.
+🌱 I’m currently expanding my skills in Cloud Computing through the AWS Cloud Practitioner certification and completing the ALX Software Engineering Program with a focus on Front-end Development.
 
+👯 I’m looking to collaborate on projects related to WordPress, Front-end Web Development, Cloud Solutions, and Remote Team Management.
 
-- 🔭 I’m currently building a Local Service Finder App; A dynamic web application designed to bridge the gap between service providers and service seekers within a local community.
-  
-- 🌱 I’m currently learning Software development in the ALX Software Engineering Program and also currently enrolled in WordPress 2023: The Complete WordPress Website Course in Udemy.
-  
-- 👯 I’m looking to collaborate on WordPress Projects, Landing Pages, Website Optimization Front-end Web development, and any other Technical, Customer service, and Administrative-centric projects.
-  
-- 🤔 I’m currently looking for a full-time remote opportunity that offers career growth.
-  
-- 💬 Ask me anything creative, legitimate, and research-worthy.
-  
-- 📫 How to reach me:iniodusolomon@gmail.com or via https://join.skype.com/invite/Hvaw427tmytb
-  
-- 😄 Pronouns: ...Solomon Iniodu
-  
-- ⚡ Fun fact: ... I am Hyper-Productive, Dedicated, Resourceful and Resilient. I commit 45 hours weekly to Work and 30 hours to learning.
-  
-- My Hobbies - Listening to TED Talks, Coding, Swimming, Reading, and Coaching.
+🤔 I’m open to full-time remote opportunities, particularly in roles involving cloud computing, web development, or technical leadership.
+
+💬 Ask me about anything creative, tech-driven, or research-worthy—I'm always excited to engage!
+
+📫 How to reach me: iniodusolomon@gmail.com or via Skype
+
+😄 Pronouns: Solomon Iniodu
+
+⚡ Fun fact: I’m hyper-productive, dedicated, and resilient. I commit 60 hours weekly to work and learning combined. Outside of work, I am a passionate fitness coach who loves helping others stay healthy.
+
+Hobbies: Listening to TED Talks, coding, swimming, reading, and coaching.
